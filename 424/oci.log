@@ -1,0 +1,106 @@
+[INFO] 2023-12-13 16:11:23,080 - #####################################################
+[INFO] 2023-12-13 16:11:23,080 - Script to spawn VM.Standard.A1.Flex instance
+[INFO] 2023-12-13 16:11:23,080 - Start spawning instance VM.Standard.A1.Flex - 4 ocpus - 24 GB
+[INFO] 2023-12-13 16:11:23,081 - Loading OCI config
+[INFO] 2023-12-13 16:11:23,081 - Initialize service client with default config file
+[INFO] 2023-12-13 16:11:23,336 - Instance to create: VM.Standard.A1.Flex - 4 ocpus - 24 GB
+[INFO] 2023-12-13 16:11:23,362 - Check available storage in account
+[INFO] 2023-12-13 16:11:24,550 - Check current instances in account
+[INFO] 2023-12-13 16:11:24,943 - No instance(s) found!
+[INFO] 2023-12-13 16:11:24,944 - Total ocpus: 0 - Total memory: 0 (GB) || Free 4 ocpus - Free memory: 24 (GB)
+[INFO] 2023-12-13 16:11:24,954 - Precheck pass! Create new instance VM.Standard.A1.Flex: 4 opus - 24 GB
+[INFO] 2023-12-13 16:12:51,355 - #####################################################
+[INFO] 2023-12-13 16:12:51,356 - Script to spawn VM.Standard.A1.Flex instance
+[INFO] 2023-12-13 16:12:51,356 - Start spawning instance VM.Standard.A1.Flex - 4 ocpus - 24 GB
+[INFO] 2023-12-13 16:12:51,356 - Loading OCI config
+[INFO] 2023-12-13 16:12:51,356 - Initialize service client with default config file
+[INFO] 2023-12-13 16:12:51,637 - Instance to create: VM.Standard.A1.Flex - 4 ocpus - 24 GB
+[INFO] 2023-12-13 16:12:51,664 - Check available storage in account
+[INFO] 2023-12-13 16:12:52,330 - Check current instances in account
+[INFO] 2023-12-13 16:12:52,748 - No instance(s) found!
+[INFO] 2023-12-13 16:12:52,748 - Total ocpus: 0 - Total memory: 0 (GB) || Free 4 ocpus - Free memory: 24 (GB)
+[INFO] 2023-12-13 16:12:52,748 - Precheck pass! Create new instance VM.Standard.A1.Flex: 4 opus - 24 GB
+[INFO] 2023-12-13 16:16:51,287 - #####################################################
+[INFO] 2023-12-13 16:16:51,288 - Script to spawn VM.Standard.A1.Flex instance
+[INFO] 2023-12-13 16:16:51,288 - Start spawning instance VM.Standard.A1.Flex - 4 ocpus - 24 GB
+[INFO] 2023-12-13 16:16:51,288 - Loading OCI config
+[INFO] 2023-12-13 16:16:51,288 - Initialize service client with default config file
+[INFO] 2023-12-13 16:16:51,535 - Instance to create: VM.Standard.A1.Flex - 4 ocpus - 24 GB
+[INFO] 2023-12-13 16:16:51,561 - Check available storage in account
+[INFO] 2023-12-13 16:16:52,214 - Check current instances in account
+[INFO] 2023-12-13 16:16:52,609 - No instance(s) found!
+[INFO] 2023-12-13 16:16:52,609 - Total ocpus: 0 - Total memory: 0 (GB) || Free 4 ocpus - Free memory: 24 (GB)
+[INFO] 2023-12-13 16:16:52,609 - Precheck pass! Create new instance VM.Standard.A1.Flex: 4 opus - 24 GB
+[INFO] 2023-12-13 16:21:50,265 - #####################################################
+[INFO] 2023-12-13 16:21:50,265 - Script to spawn VM.Standard.A1.Flex instance
+[INFO] 2023-12-13 16:21:50,265 - Start spawning instance VM.Standard.A1.Flex - 4 ocpus - 24 GB
+[INFO] 2023-12-13 16:21:50,265 - Loading OCI config
+[INFO] 2023-12-13 16:21:50,267 - Initialize service client with default config file
+[INFO] 2023-12-13 16:21:50,492 - Instance to create: VM.Standard.A1.Flex - 4 ocpus - 24 GB
+[INFO] 2023-12-13 16:21:50,519 - Check available storage in account
+[INFO] 2023-12-13 16:21:51,068 - Check current instances in account
+[INFO] 2023-12-13 16:21:51,735 - No instance(s) found!
+[INFO] 2023-12-13 16:21:51,735 - Total ocpus: 0 - Total memory: 0 (GB) || Free 4 ocpus - Free memory: 24 (GB)
+[INFO] 2023-12-13 16:21:51,735 - Precheck pass! Create new instance VM.Standard.A1.Flex: 4 opus - 24 GB
+[INFO] 2023-12-13 16:26:15,546 - #####################################################
+[INFO] 2023-12-13 16:26:15,546 - Script to spawn VM.Standard.A1.Flex instance
+[INFO] 2023-12-13 16:26:15,546 - Start spawning instance VM.Standard.A1.Flex - 4 ocpus - 24 GB
+[INFO] 2023-12-13 16:26:15,546 - Loading OCI config
+[INFO] 2023-12-13 16:26:15,547 - Initialize service client with default config file
+[INFO] 2023-12-13 16:26:15,794 - Instance to create: VM.Standard.A1.Flex - 4 ocpus - 24 GB
+[INFO] 2023-12-13 16:26:15,821 - Check available storage in account
+[INFO] 2023-12-13 16:26:16,461 - Check current instances in account
+[INFO] 2023-12-13 16:26:17,121 - No instance(s) found!
+[INFO] 2023-12-13 16:26:17,121 - Total ocpus: 0 - Total memory: 0 (GB) || Free 4 ocpus - Free memory: 24 (GB)
+[INFO] 2023-12-13 16:26:17,121 - Precheck pass! Create new instance VM.Standard.A1.Flex: 4 opus - 24 GB
+[INFO] 2023-12-13 16:26:17,171 - 429 - TooManyRequests - Too many requests for the user. Retrying after 15 seconds
+[INFO] 2023-12-13 16:26:33,654 - 429 - TooManyRequests - Too many requests for the user. Retrying after 15 seconds
+[INFO] 2023-12-13 16:26:49,535 - 429 - TooManyRequests - Too many requests for the user. Retrying after 15 seconds
+[INFO] 2023-12-13 16:27:05,842 - 429 - TooManyRequests - Too many requests for the user. Retrying after 15 seconds
+[INFO] 2023-12-13 16:27:21,732 - 429 - TooManyRequests - Too many requests for the user. Retrying after 15 seconds
+[INFO] 2023-12-13 16:27:48,137 - #####################################################
+[INFO] 2023-12-13 16:27:48,138 - Script to spawn VM.Standard.A1.Flex instance
+[INFO] 2023-12-13 16:27:48,138 - Start spawning instance VM.Standard.A1.Flex - 4 ocpus - 24 GB
+[INFO] 2023-12-13 16:27:48,138 - Loading OCI config
+[INFO] 2023-12-13 16:27:48,138 - Initialize service client with default config file
+[INFO] 2023-12-13 16:27:48,383 - Instance to create: VM.Standard.A1.Flex - 4 ocpus - 24 GB
+[INFO] 2023-12-13 16:27:48,411 - Check available storage in account
+[INFO] 2023-12-13 16:27:48,992 - Check current instances in account
+[INFO] 2023-12-13 16:27:49,397 - No instance(s) found!
+[INFO] 2023-12-13 16:27:49,397 - Total ocpus: 0 - Total memory: 0 (GB) || Free 4 ocpus - Free memory: 24 (GB)
+[INFO] 2023-12-13 16:27:49,397 - Precheck pass! Create new instance VM.Standard.A1.Flex: 4 opus - 24 GB
+[INFO] 2023-12-13 16:27:50,580 - 500 - InternalError - Out of host capacity.. Retrying after 30 seconds
+[INFO] 2023-12-13 16:28:21,963 - 429 - TooManyRequests - Too many requests for the user. Retrying after 30 seconds
+[INFO] 2023-12-13 16:28:53,713 - 500 - InternalError - Out of host capacity.. Retrying after 30 seconds
+[INFO] 2023-12-13 16:29:25,349 - 500 - InternalError - Out of host capacity.. Retrying after 30 seconds
+[INFO] 2023-12-13 16:29:56,213 - 429 - TooManyRequests - Too many requests for the user. Retrying after 30 seconds
+[INFO] 2023-12-13 16:30:39,082 - #####################################################
+[INFO] 2023-12-13 16:30:39,083 - Script to spawn VM.Standard.A1.Flex instance
+[INFO] 2023-12-13 16:30:39,083 - Start spawning instance VM.Standard.A1.Flex - 4 ocpus - 24 GB
+[INFO] 2023-12-13 16:30:39,083 - Loading OCI config
+[INFO] 2023-12-13 16:30:39,083 - Initialize service client with default config file
+[INFO] 2023-12-13 16:30:39,324 - Instance to create: VM.Standard.A1.Flex - 4 ocpus - 24 GB
+[INFO] 2023-12-13 16:30:39,350 - Check available storage in account
+[INFO] 2023-12-13 16:30:39,900 - Check current instances in account
+[INFO] 2023-12-13 16:30:40,281 - No instance(s) found!
+[INFO] 2023-12-13 16:30:40,281 - Total ocpus: 0 - Total memory: 0 (GB) || Free 4 ocpus - Free memory: 24 (GB)
+[INFO] 2023-12-13 16:30:40,281 - Precheck pass! Create new instance VM.Standard.A1.Flex: 4 opus - 24 GB
+[INFO] 2023-12-13 16:30:40,330 - 429 - TooManyRequests - Too many requests for the user. Retrying after 15 seconds
+[INFO] 2023-12-13 16:30:56,786 - 429 - TooManyRequests - Too many requests for the user. Retrying after 15 seconds
+[INFO] 2023-12-13 16:31:13,299 - 500 - InternalError - Out of host capacity.. Retrying after 15 seconds
+[INFO] 2023-12-13 16:31:29,862 - 500 - InternalError - Out of host capacity.. Retrying after 15 seconds
+[INFO] 2023-12-13 16:31:45,716 - 429 - TooManyRequests - Too many requests for the user. Retrying after 15 seconds
+[INFO] 2023-12-13 16:32:01,538 - 429 - TooManyRequests - Too many requests for the user. Retrying after 15 seconds
+[INFO] 2023-12-13 16:32:18,284 - 500 - InternalError - Out of host capacity.. Retrying after 15 seconds
+[INFO] 2023-12-13 16:32:34,133 - 429 - TooManyRequests - Too many requests for the user. Retrying after 15 seconds
+[INFO] 2023-12-13 16:32:50,892 - 500 - InternalError - Out of host capacity.. Retrying after 15 seconds
+[INFO] 2023-12-13 16:33:07,013 - 429 - TooManyRequests - Too many requests for the user. Retrying after 15 seconds
+[INFO] 2023-12-13 16:33:22,829 - 429 - TooManyRequests - Too many requests for the user. Retrying after 15 seconds
+[INFO] 2023-12-13 16:33:38,915 - 429 - TooManyRequests - Too many requests for the user. Retrying after 15 seconds
+[INFO] 2023-12-13 16:33:54,767 - 429 - TooManyRequests - Too many requests for the user. Retrying after 15 seconds
+[INFO] 2023-12-13 16:34:10,590 - 429 - TooManyRequests - Too many requests for the user. Retrying after 15 seconds
+[INFO] 2023-12-13 16:34:26,639 - 429 - TooManyRequests - Too many requests for the user. Retrying after 15 seconds
+[INFO] 2023-12-13 16:34:42,490 - 429 - TooManyRequests - Too many requests for the user. Retrying after 15 seconds
+[INFO] 2023-12-13 16:34:58,384 - 429 - TooManyRequests - Too many requests for the user. Retrying after 15 seconds
+[INFO] 2023-12-13 16:35:14,183 - 429 - TooManyRequests - Too many requests for the user. Retrying after 15 seconds
+[INFO] 2023-12-13 16:35:30,430 - 429 - TooManyRequests - Too many requests for the user. Retrying after 15 seconds
